@@ -65,4 +65,4 @@ app.get('/menu/:category', (req, res) => {
     category: req.params.category
   })
 })
-app.listen(4000);
+app.listen(3000);
